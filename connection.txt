@@ -1,0 +1,5 @@
+MYSQL SHELL Connection
+\connect root@localhost:3306   
+password : vdc@123
+use sakila
+select * from city
